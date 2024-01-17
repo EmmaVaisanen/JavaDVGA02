@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Imsquareroot/Imsquareroot.iml" filepath="$PROJECT_DIR$/Imsquareroot/Imsquareroot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kingdice/Kingdice.iml" filepath="$PROJECT_DIR$/Kingdice/Kingdice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stringray/Stringray.iml" filepath="$PROJECT_DIR$/Stringray/Stringray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tecken/Tecken.iml" filepath="$PROJECT_DIR$/Tecken/Tecken.iml" />
+    </modules>
+  </component>
+</project>
